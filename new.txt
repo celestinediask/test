@@ -1,1 +1,2 @@
 simply testing
+testing push credential cache for current dir only
